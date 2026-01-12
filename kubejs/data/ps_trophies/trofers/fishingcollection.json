@@ -1,0 +1,22 @@
+{
+  "colors": {
+    "accent": "#6F2DA8",
+    "base": "#353839"
+  },
+  "display": {
+    "offset": { "x": 0, "y": 1, "z": 0 },
+    "scale": 1.6
+  },
+  "item": {
+    "item": "tide:ender_glider",
+    "count": 1
+  },
+  "animation": {
+    "type": "spinning",
+    "speed": 0.1
+  },
+  "name": {
+    "color": "#6F2DA8",
+    "text": "Fishing Collection Trophy"
+  }
+}
