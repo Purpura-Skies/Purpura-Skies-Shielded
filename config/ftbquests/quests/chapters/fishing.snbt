@@ -1,0 +1,2715 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishing"
+	group: "0C6FD2E23A9D3B0F"
+	icon: {
+		Count: 1
+		id: "tide:ender_glider"
+		tag: {
+			FishLength: 59.0d
+		}
+	}
+	id: "22C4AB529E25EC94"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: false
+			dependencies: [
+				"6436AD3B7C7188FC"
+				"3E9D5FCE5EBCC7E6"
+				"74FF7A235EDD458B"
+				"5E89499554F12766"
+				"7E41ECAE711DBF7F"
+				"555039ED1EB4A318"
+				"473368913F5A636C"
+				"726C73E07DF4DE6D"
+				"7525215A614A5FAC"
+				"09CBC0AE7C3634CD"
+				"6390122B47968532"
+				"5B1E312754CDB4D6"
+				"30762DB1E9207145"
+				"5037BC79C8A397CE"
+				"76E8D2B3B9B618C9"
+				"69CE610F8DF48390"
+				"7F876EB83C854F9D"
+				"30D54301A133EF4D"
+				"4A0D61C2FB447620"
+				"4D891185F9517E71"
+				"7C71F6BB780AC3EF"
+				"028C49AA983E4937"
+				"414258EC853D93A1"
+				"7CFC0FD1DF12D908"
+				"7E3C52C4BAAF766F"
+				"7872C31E325BE50D"
+				"322C582395DDA76E"
+				"15456D5BEF15FE48"
+				"30CF9A3B72246896"
+				"7A44167414E1DC99"
+				"08EBAB25CDC5B6C0"
+				"5A5179BECF8DB533"
+				"28CC3EADAD4D24FD"
+				"4E7924E9FFE712A3"
+				"4F640F541C4AAAAC"
+				"723265561A249F96"
+				"30B479A8708D004C"
+				"16F449A8D919A198"
+				"62EDFE330152D151"
+				"506125E8A10BC560"
+				"6918B5BF8D2A936B"
+				"7F811480074439AD"
+				"5CFE41FC6E5085B8"
+				"3796DC828FF7CD08"
+				"5D0A11D9D5B70189"
+				"28C90D46BC5213AF"
+				"51955A23C8E3BAA1"
+				"12EF86CD86CE9A1A"
+				"26C708E9CE907D46"
+				"763F7A5052706C1A"
+				"407B546FFF70A663"
+				"5995405DA906DAC9"
+				"0D421DDDBCEF8878"
+				"39438E05665EC116"
+				"19E9EB18332FE5CF"
+				"013B3F953CB8D705"
+				"7C46E516EC18115E"
+				"38754E0FB7618101"
+				"78BE578370EA4ECC"
+				"29CE6508857526AF"
+				"37C81B092FC6001A"
+				"50B2FB51BEC26C00"
+				"5E1BB305F2343F0F"
+				"7DD894605E79E4E9"
+				"42725CAC9B8E0678"
+				"3E01A118320CD639"
+				"758F7AF5AC9C3ECA"
+				"45F3BE2F621F8AEC"
+				"0E056CAAA583081C"
+				"294CDCE9B9A09E34"
+				"3B9CBEB36E7F7163"
+				"450FCB76CA603E2F"
+				"3B72B5D0D1EA027E"
+				"1230AA857FBCBC31"
+				"0BB9A8FB0EEF6F95"
+				"3CCD4774233BF6BB"
+				"052C1641C1B139E1"
+				"4840B6BC37E2665F"
+				"6F46818B7EF9367C"
+				"0C673388D8DEC77B"
+				"6D045334F2A707DC"
+				"3B1A6CA17225E0D1"
+				"7D3390A35B2700E1"
+				"051AD971E810E622"
+				"2A514C3308F478CA"
+				"31EC97E9B79935C3"
+				"6635F3F3C87101D1"
+				"6789FCE1EBDC9CDF"
+				"5BB5E0973E4D9204"
+				"1C0A563956E9E5B4"
+				"006D78584609EE53"
+				"523F6BF9C27805CF"
+				"6942BF641D15A640"
+				"495591792456BC0E"
+				"1C0B0DFF82A5E22B"
+				"66AA690063E25C33"
+				"660CAC37F6022CB8"
+				"16ECE190047FF382"
+				"5701F1BC8873F64C"
+				"3E1009B96B593272"
+				"560CD93350B28B0F"
+				"717389F0ADB276B5"
+				"4A8D0374A654A128"
+				"4D484606F66404AC"
+				"0D07EB2F41C28C6C"
+				"676AA2903C1BC066"
+				"14E4E3CC7DA4BD1D"
+				"7E85AB90646E80ED"
+				"10C7084000BC84AC"
+				"0F5DB4F8ED36090A"
+				"0741A248F5F08163"
+				"47D29F0873DDA19C"
+				"2BEA9EC73D201996"
+				"2917CCEA0BEA90B7"
+				"32386F48C3C36B10"
+				"2779AD12A7A70462"
+				"65D6AC80394A49B3"
+				"6A393E84C5EA3DE5"
+				"68D3720A928B32E4"
+				"53D87AC9314DC6EA"
+				"2F5931A9EC1E5A58"
+				"3278EE41B8B1753F"
+				"5BC9A2E3EBDC354F"
+				"264914CA9AD8D0E6"
+				"368CB799CAA1E80A"
+				"6DFC8FC91CF9CE72"
+				"7382779DBC3D25F2"
+				"762C1B4349920428"
+				"68D1347948353B4A"
+				"1F271E970704516C"
+				"3E1A9E336996FD65"
+				"10957C2A6DC934AA"
+				"37679DF6A7234C6F"
+				"10764903B58D7825"
+				"35306E6CD3B46C08"
+				"3667A3E4DDDABEBA"
+				"3950EFED57B606ED"
+				"562494F437A80795"
+				"7B0F7E36EDC7B411"
+				"0A6BA8969F01660E"
+				"493B6E5E25776BE0"
+				"195A1CFCCD2CA27C"
+				"38567F2DFA1EEA93"
+				"063A2F16BCDEF00A"
+				"4391085DA7127027"
+				"675BCAF6440C725B"
+				"577352259EF4045E"
+				"46B8710111E9C2AC"
+				"7EAB93B9F739C3D4"
+				"0DF5267C84B0FE91"
+				"79A9EE49A3882CE0"
+				"3E2E900CC4AF83A7"
+				"50E6792E67A47A37"
+				"69B2EDD7C5BF848A"
+				"7FCD2615CFCE2307"
+				"730F48B673A86E20"
+				"78CD817093A6344E"
+				"09BFA8F463EA53C6"
+				"78CF7DEAE1BE7E22"
+				"367D8F1EE6899683"
+				"756E67F4F76D714B"
+				"187B4EB70CBD445D"
+				"5B609F97AEDA6A03"
+			]
+			description: [
+				"The waters of this world are woven with ancient magic, flowing through forests, oceans, and realms beyond the Overworld. Many creatures dwell beneath the surface, some common, others bound to rare biomes or distant dimensions."
+				""
+				"To complete this quest, you must &lcatch every fish that exists in the game&r, including rare and dimension-exclusive species. Explore every realm, fish under different conditions, and let patience guide your line until the Angler’s Grand Compendium is complete."
+			]
+			hide_dependency_lines: true
+			icon: {
+				Count: 1
+				id: "trofers:large_pillar"
+				tag: {
+					BlockEntityTag: {
+						Trophy: "ps_trophies:fishingcollection"
+					}
+				}
+			}
+			icon_scale: 1.3d
+			id: "732C6B1B932A59F7"
+			progression_mode: "flexible"
+			rewards: [
+				{
+					id: "1326664DE862DCDD"
+					item: {
+						Count: 1
+						id: "trofers:large_pillar"
+						tag: {
+							BlockEntityTag: {
+								Trophy: "ps_trophies:fishingcollection"
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					command: "/titles add @p ps_titles:grandangler"
+					elevate_perms: true
+					icon: "titles:title_scroll_rare"
+					id: "664863DB924C4557"
+					title: "Grand Angler Title"
+					type: "command"
+				}
+			]
+			shape: "hexagon"
+			size: 3.0d
+			subtitle: "Fishing Collection Complete"
+			tasks: [{
+				id: "04C845BCDC2F4BCA"
+				type: "checkmark"
+			}]
+			title: "Grand Angler"
+			x: 3.1505031279048623d
+			y: 1.0675825868796593d
+		}
+		{
+			id: "3E2E900CC4AF83A7"
+			tasks: [{
+				consume_items: false
+				id: "57974DEF8DDCE445"
+				item: "minecraft:pufferfish"
+				type: "item"
+			}]
+			x: 4.677320642310534d
+			y: -1.994087261480093d
+		}
+		{
+			id: "0DF5267C84B0FE91"
+			tasks: [{
+				consume_items: false
+				id: "325FEBF0E4EDA66F"
+				item: "minecraft:tropical_fish"
+				type: "item"
+			}]
+			x: 2.6773206423105336d
+			y: -1.994087261480093d
+		}
+		{
+			id: "50E6792E67A47A37"
+			tasks: [{
+				consume_items: false
+				id: "1799D1AB0C472873"
+				item: "minecraft:cod"
+				type: "item"
+			}]
+			title: "Cod"
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			id: "79A9EE49A3882CE0"
+			tasks: [{
+				consume_items: false
+				id: "1A9E404E00A87AF0"
+				item: "minecraft:salmon"
+				type: "item"
+			}]
+			title: "Salmon"
+			x: 3.6773206423105336d
+			y: -1.994087261480093d
+		}
+		{
+			id: "5A5179BECF8DB533"
+			tasks: [{
+				consume_items: false
+				id: "0684EA1BC9144134"
+				item: "hybrid-aquatic:betta"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			id: "473368913F5A636C"
+			tasks: [{
+				consume_items: false
+				id: "4D85013A79097803"
+				item: "hybrid-aquatic:danio"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+		{
+			id: "7CFC0FD1DF12D908"
+			tasks: [{
+				consume_items: false
+				id: "06DE51EE4BBBD7B7"
+				item: "hybrid-aquatic:neon_tetra"
+				type: "item"
+			}]
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			id: "4F640F541C4AAAAC"
+			tasks: [{
+				consume_items: false
+				id: "2297F93A07A699E1"
+				item: "hybrid-aquatic:discus"
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			id: "5B1E312754CDB4D6"
+			tasks: [{
+				consume_items: false
+				id: "554D75887352569E"
+				item: "hybrid-aquatic:tiger_barb"
+				type: "item"
+			}]
+			x: 13.5d
+			y: -1.0d
+		}
+		{
+			id: "555039ED1EB4A318"
+			tasks: [{
+				consume_items: false
+				id: "4937F2D813D976EF"
+				item: "hybrid-aquatic:oscar"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -1.0d
+		}
+		{
+			id: "726C73E07DF4DE6D"
+			tasks: [{
+				consume_items: false
+				id: "415A9627EDA9CC68"
+				item: "hybrid-aquatic:gourami"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -1.0d
+		}
+		{
+			id: "28C90D46BC5213AF"
+			tasks: [{
+				consume_items: false
+				id: "1CD5953B14B13677"
+				item: "hybrid-aquatic:carp"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			id: "3E9D5FCE5EBCC7E6"
+			tasks: [{
+				consume_items: false
+				id: "2B6CB42C299DA50E"
+				item: "hybrid-aquatic:pleco"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			id: "506125E8A10BC560"
+			tasks: [{
+				consume_items: false
+				id: "0DC0AB024C1B43BA"
+				item: "hybrid-aquatic:anglerfish"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+		{
+			id: "28CC3EADAD4D24FD"
+			tasks: [{
+				consume_items: false
+				id: "40CB4CACA10509E3"
+				item: "hybrid-aquatic:barreleye"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			id: "4E7924E9FFE712A3"
+			tasks: [{
+				consume_items: false
+				id: "162E381103169745"
+				item: "hybrid-aquatic:dragonfish"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			id: "3796DC828FF7CD08"
+			tasks: [{
+				consume_items: false
+				id: "3A98E342336C9D38"
+				item: "hybrid-aquatic:flashlight_fish"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 0.0d
+		}
+		{
+			id: "7C71F6BB780AC3EF"
+			tasks: [{
+				consume_items: false
+				id: "7790F03A8405F98F"
+				item: "hybrid-aquatic:ratfish"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 0.0d
+		}
+		{
+			id: "6918B5BF8D2A936B"
+			tasks: [{
+				consume_items: false
+				id: "165917FF8C5CAE94"
+				item: "hybrid-aquatic:surgeonfish"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			id: "6436AD3B7C7188FC"
+			tasks: [{
+				consume_items: false
+				id: "1CE6EA19E92A5EEB"
+				item: "hybrid-aquatic:boxfish"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			id: "4A0D61C2FB447620"
+			tasks: [{
+				consume_items: false
+				id: "4712AD85E6DACC85"
+				item: "hybrid-aquatic:sea_bass"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			id: "69CE610F8DF48390"
+			tasks: [{
+				consume_items: false
+				id: "0574275E840601E6"
+				item: "hybrid-aquatic:damselfish"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			id: "7F811480074439AD"
+			tasks: [{
+				consume_items: false
+				id: "559F06FF8DD5C737"
+				item: "hybrid-aquatic:seahorse"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 1.0d
+		}
+		{
+			id: "7872C31E325BE50D"
+			tasks: [{
+				consume_items: false
+				id: "36483F9D0E55A9B5"
+				item: "hybrid-aquatic:mackerel"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 1.0d
+		}
+		{
+			id: "30B479A8708D004C"
+			tasks: [{
+				consume_items: false
+				id: "162C9FC5E2B72D72"
+				item: "hybrid-aquatic:herring"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.0d
+		}
+		{
+			id: "7E41ECAE711DBF7F"
+			tasks: [{
+				consume_items: false
+				id: "4C24FA310EFE2C52"
+				item: "hybrid-aquatic:flying_fish"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 1.0d
+		}
+		{
+			id: "16F449A8D919A198"
+			tasks: [{
+				consume_items: false
+				id: "4650616414B990FA"
+				item: "hybrid-aquatic:john_dory"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 1.0d
+		}
+		{
+			id: "5CFE41FC6E5085B8"
+			tasks: [{
+				consume_items: false
+				id: "26F83FA92E9CEBCF"
+				item: "hybrid-aquatic:blowfish"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			id: "028C49AA983E4937"
+			tasks: [{
+				consume_items: false
+				id: "2930C756DEB2F1FB"
+				item: "hybrid-aquatic:stonefish"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 2.0d
+		}
+		{
+			id: "74FF7A235EDD458B"
+			tasks: [{
+				consume_items: false
+				id: "4B27BCD38C2EA41A"
+				item: "hybrid-aquatic:golden_dorado"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 2.0d
+		}
+		{
+			id: "414258EC853D93A1"
+			tasks: [{
+				consume_items: false
+				id: "1E07BD829A83C35D"
+				item: "hybrid-aquatic:lionfish"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 2.0d
+		}
+		{
+			id: "08EBAB25CDC5B6C0"
+			tasks: [{
+				consume_items: false
+				id: "154F528D6A72DF29"
+				item: "hybrid-aquatic:blue_spotted_stingray"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 2.0d
+		}
+		{
+			id: "30D54301A133EF4D"
+			tasks: [{
+				consume_items: false
+				id: "2680CC63634BA6CD"
+				item: "hybrid-aquatic:spotted_eagle_ray"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 2.0d
+		}
+		{
+			id: "322C582395DDA76E"
+			tasks: [{
+				consume_items: false
+				id: "16924BED5704563E"
+				item: "hybrid-aquatic:coelacanth"
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			id: "6390122B47968532"
+			tasks: [{
+				consume_items: false
+				id: "3C037C230E0BE57F"
+				item: "hybrid-aquatic:needlefish"
+				type: "item"
+			}]
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			id: "51955A23C8E3BAA1"
+			tasks: [{
+				consume_items: false
+				id: "230036951597BD34"
+				item: "hybrid-aquatic:parrotfish"
+				type: "item"
+			}]
+			x: 12.5d
+			y: 3.0d
+		}
+		{
+			id: "15456D5BEF15FE48"
+			tasks: [{
+				consume_items: false
+				id: "69FF32B667DE8389"
+				item: "hybrid-aquatic:sheepshead_wrasse"
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			id: "26C708E9CE907D46"
+			tasks: [{
+				consume_items: false
+				id: "04DD9058A555B7EE"
+				item: "hybrid-aquatic:moray_eel"
+				type: "item"
+			}]
+			x: 14.5d
+			y: 3.0d
+		}
+		{
+			id: "7E3C52C4BAAF766F"
+			tasks: [{
+				consume_items: false
+				id: "717E1354797C3292"
+				item: "hybrid-aquatic:tuna"
+				type: "item"
+			}]
+			x: 15.5d
+			y: 3.0d
+		}
+		{
+			id: "30CF9A3B72246896"
+			tasks: [{
+				consume_items: false
+				id: "67AD4A6536FEABEC"
+				item: "hybrid-aquatic:raw_crayfish"
+				type: "item"
+			}]
+			title: "Crayfish"
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			id: "7F876EB83C854F9D"
+			tasks: [{
+				consume_items: false
+				id: "29DE0B4E503D8663"
+				item: "hybrid-aquatic:goldfish"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			id: "723265561A249F96"
+			tasks: [{
+				consume_items: false
+				id: "1BCA3517C8E0B1BB"
+				item: "hybrid-aquatic:clownfish"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			id: "4D891185F9517E71"
+			tasks: [{
+				consume_items: false
+				id: "1C68F4F1C6E58611"
+				item: "hybrid-aquatic:snailfish"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			id: "7A44167414E1DC99"
+			tasks: [{
+				consume_items: false
+				id: "353D4157B763627B"
+				item: "hybrid-aquatic:rockfish"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			id: "30762DB1E9207145"
+			tasks: [{
+				consume_items: false
+				id: "6E25A2E6814A76F9"
+				item: "hybrid-aquatic:piranha"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			id: "76E8D2B3B9B618C9"
+			tasks: [{
+				consume_items: false
+				id: "7E99ACF595182082"
+				item: "hybrid-aquatic:squirrelfish"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			id: "5E89499554F12766"
+			tasks: [{
+				consume_items: false
+				id: "0AD3CFE3B2C1912D"
+				item: "hybrid-aquatic:pearlfish"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			id: "12EF86CD86CE9A1A"
+			tasks: [{
+				consume_items: false
+				id: "29AF7761BC9D2EEB"
+				item: "hybrid-aquatic:triggerfish"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			id: "5037BC79C8A397CE"
+			tasks: [{
+				consume_items: false
+				id: "7374F0472387B5BB"
+				item: "hybrid-aquatic:mahi"
+				type: "item"
+			}]
+			x: 16.5d
+			y: -0.5d
+		}
+		{
+			id: "09CBC0AE7C3634CD"
+			tasks: [{
+				consume_items: false
+				id: "66728E2C3466A293"
+				item: "hybrid-aquatic:opah"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 2.5d
+		}
+		{
+			id: "5D0A11D9D5B70189"
+			tasks: [{
+				consume_items: false
+				id: "1AECBD670A807574"
+				item: "hybrid-aquatic:oarfish"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.5d
+		}
+		{
+			id: "7525215A614A5FAC"
+			tasks: [{
+				consume_items: false
+				id: "5119156C26063700"
+				item: "hybrid-aquatic:ocean_sunfish"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			id: "10C7084000BC84AC"
+			tasks: [{
+				consume_items: false
+				id: "603BD1752BB0C6D4"
+				item: {
+					Count: 1
+					id: "tide:brook_trout"
+					tag: {
+						FishLength: 40.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			id: "7382779DBC3D25F2"
+			tasks: [{
+				consume_items: false
+				id: "2B174D2883899C4F"
+				item: {
+					Count: 1
+					id: "tide:largemouth_bass"
+					tag: {
+						FishLength: 50.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			id: "35306E6CD3B46C08"
+			tasks: [{
+				consume_items: false
+				id: "25906700C06D8F84"
+				item: {
+					Count: 1
+					id: "tide:smallmouth_bass"
+					tag: {
+						FishLength: 43.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "450FCB76CA603E2F"
+			tasks: [{
+				consume_items: false
+				id: "0AB4AC6103A8E0B2"
+				item: {
+					Count: 1
+					id: "tide:white_crappie"
+					tag: {
+						FishLength: 25.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "7B0F7E36EDC7B411"
+			tasks: [{
+				consume_items: false
+				id: "2220778E53BE2229"
+				item: {
+					Count: 1
+					id: "tide:black_crappie"
+					tag: {
+						FishLength: 30.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "3950EFED57B606ED"
+			tasks: [{
+				consume_items: false
+				id: "1B498D12D4A9D2EE"
+				item: {
+					Count: 1
+					id: "tide:yellow_perch"
+					tag: {
+						FishLength: 22.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "7E85AB90646E80ED"
+			tasks: [{
+				consume_items: false
+				id: "305B506FE42D2DB2"
+				item: {
+					Count: 1
+					id: "tide:carp"
+					tag: {
+						FishLength: 60.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "6789FCE1EBDC9CDF"
+			tasks: [{
+				consume_items: false
+				id: "534FEAFB55D526DD"
+				item: {
+					Count: 1
+					id: "tide:pike"
+					tag: {
+						FishLength: 70.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "5E1BB305F2343F0F"
+			tasks: [{
+				consume_items: false
+				id: "4125D4FBCDC73917"
+				item: {
+					Count: 1
+					id: "tide:guppy"
+					tag: {
+						FishLength: 5.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			id: "5701F1BC8873F64C"
+			tasks: [{
+				consume_items: false
+				id: "75EBB139201255EE"
+				item: {
+					Count: 1
+					id: "tide:bluegill"
+					tag: {
+						FishLength: 22.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			id: "4D484606F66404AC"
+			tasks: [{
+				consume_items: false
+				id: "3059EFB40078D388"
+				item: {
+					Count: 1
+					id: "tide:frostbite_flounder"
+					tag: {
+						FishLength: 47.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 6.0d
+		}
+		{
+			id: "0D07EB2F41C28C6C"
+			tasks: [{
+				consume_items: false
+				id: "16B43D2DAF24C260"
+				item: {
+					Count: 1
+					id: "tide:sturgeon"
+					tag: {
+						FishLength: 195.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			id: "1230AA857FBCBC31"
+			tasks: [{
+				consume_items: false
+				id: "1E4FE49251F551A6"
+				item: {
+					Count: 1
+					id: "tide:blossom_bass"
+					tag: {
+						FishLength: 50.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+		{
+			id: "0C673388D8DEC77B"
+			tasks: [{
+				consume_items: false
+				id: "57F3932DEB950E0A"
+				item: {
+					Count: 1
+					id: "tide:spore_stalker"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "3CCD4774233BF6BB"
+			tasks: [{
+				consume_items: false
+				id: "53B3E5CBCA94FBA3"
+				item: {
+					Count: 1
+					id: "tide:mooneye"
+					tag: {
+						FishLength: 29.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "68D1347948353B4A"
+			tasks: [{
+				consume_items: false
+				id: "4490B168655777AA"
+				item: {
+					Count: 1
+					id: "tide:bull_shark"
+					tag: {
+						FishLength: 237.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "3B9CBEB36E7F7163"
+			tasks: [{
+				consume_items: false
+				id: "262EBD8D32D2F4A7"
+				item: {
+					Count: 1
+					id: "tide:ocean_perch"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "2917CCEA0BEA90B7"
+			tasks: [{
+				consume_items: false
+				id: "02CB6D3DD50C72BE"
+				item: {
+					Count: 1
+					id: "tide:red_snapper"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "051AD971E810E622"
+			tasks: [{
+				consume_items: false
+				id: "312EA5F5C2A3B5D2"
+				item: {
+					Count: 1
+					id: "tide:flounder"
+					tag: {
+						FishLength: 47.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "37679DF6A7234C6F"
+			tasks: [{
+				consume_items: false
+				id: "70B1B73E156DFB9E"
+				item: {
+					Count: 1
+					id: "tide:anchovy"
+					tag: {
+						FishLength: 9.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			id: "660CAC37F6022CB8"
+			tasks: [{
+				consume_items: false
+				id: "6B5D3860F6941B3E"
+				item: {
+					Count: 1
+					id: "tide:catfish"
+					tag: {
+						FishLength: 57.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "14E4E3CC7DA4BD1D"
+			tasks: [{
+				consume_items: false
+				id: "07CDA6054C1BDED0"
+				item: {
+					Count: 1
+					id: "tide:walleye"
+					tag: {
+						FishLength: 55.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "763F7A5052706C1A"
+			tasks: [{
+				consume_items: false
+				id: "557F8A11FC2EA009"
+				item: {
+					Count: 1
+					id: "tide:arapaima"
+					tag: {
+						FishLength: 290.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			id: "1F271E970704516C"
+			tasks: [{
+				consume_items: false
+				id: "495A43F448A6ED53"
+				item: {
+					Count: 1
+					id: "tide:mirage_catfish"
+					tag: {
+						FishLength: 57.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			id: "4391085DA7127027"
+			tasks: [{
+				consume_items: false
+				id: "6CCE752D3A57D8CD"
+				item: {
+					Count: 1
+					id: "tide:sand_tiger_shark"
+					tag: {
+						FishLength: 245.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.0d
+		}
+		{
+			id: "577352259EF4045E"
+			tasks: [{
+				consume_items: false
+				id: "40C496B4F3C6A8CD"
+				item: {
+					Count: 1
+					id: "tide:mahi_mahi"
+					tag: {
+						FishLength: 107.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 6.0d
+		}
+		{
+			id: "717389F0ADB276B5"
+			tasks: [{
+				consume_items: false
+				id: "3E7221BF327EBAFA"
+				item: {
+					Count: 1
+					id: "tide:angelfish"
+					tag: {
+						FishLength: 11.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			id: "7DD894605E79E4E9"
+			tasks: [{
+				consume_items: false
+				id: "37BB95D3A68C1B6E"
+				item: {
+					Count: 1
+					id: "tide:snook"
+					tag: {
+						FishLength: 53.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			id: "19E9EB18332FE5CF"
+			tasks: [{
+				consume_items: false
+				id: "02162F713B66E93F"
+				item: {
+					Count: 1
+					id: "tide:mackerel"
+					tag: {
+						FishLength: 37.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "195A1CFCCD2CA27C"
+			tasks: [{
+				consume_items: false
+				id: "780E2F21F2996427"
+				item: {
+					Count: 1
+					id: "tide:tuna"
+					tag: {
+						FishLength: 120.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			id: "294CDCE9B9A09E34"
+			tasks: [{
+				consume_items: false
+				id: "27E1225AF63A9A18"
+				item: {
+					Count: 1
+					id: "tide:swordfish"
+					tag: {
+						Damage: 0
+						FishLength: 235.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "47D29F0873DDA19C"
+			tasks: [{
+				consume_items: false
+				id: "7547DD970F4969BA"
+				item: {
+					Count: 1
+					id: "tide:manta_ray"
+					tag: {
+						FishLength: 525.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			id: "1C0B0DFF82A5E22B"
+			tasks: [{
+				consume_items: false
+				id: "65A204ED2214DDC3"
+				item: {
+					Count: 1
+					id: "tide:aquathorn"
+					tag: {
+						FishLength: 38.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			id: "7D3390A35B2700E1"
+			tasks: [{
+				consume_items: false
+				id: "6ABBEFA4719BA357"
+				item: {
+					Count: 1
+					id: "tide:neptune_koi"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "675BCAF6440C725B"
+			tasks: [{
+				consume_items: false
+				id: "3734A8F9C10F6C69"
+				item: {
+					Count: 1
+					id: "tide:pluto_snail"
+					tag: {
+						FishLength: 15.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "6A393E84C5EA3DE5"
+			tasks: [{
+				consume_items: false
+				id: "49C4A024A1F2D667"
+				item: {
+					Count: 1
+					id: "tide:sun_emblem"
+					tag: {
+						FishLength: 55.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "2779AD12A7A70462"
+			tasks: [{
+				consume_items: false
+				id: "23F685A37B1FECC5"
+				item: {
+					Count: 1
+					id: "tide:saturn_cuttlefish"
+					tag: {
+						FishLength: 105.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "6942BF641D15A640"
+			tasks: [{
+				consume_items: false
+				id: "2BB903F62BD5AF09"
+				item: {
+					Count: 1
+					id: "tide:marstilus"
+					tag: {
+						FishLength: 112.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			id: "6635F3F3C87101D1"
+			tasks: [{
+				consume_items: false
+				id: "3F84909E338CF069"
+				item: {
+					Count: 1
+					id: "tide:uranias_pisces"
+					tag: {
+						FishLength: 200.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "407B546FFF70A663"
+			tasks: [{
+				consume_items: false
+				id: "67ACEDF7B216DA8B"
+				item: {
+					Count: 1
+					id: "tide:great_white_shark"
+					tag: {
+						FishLength: 430.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "523F6BF9C27805CF"
+			tasks: [{
+				consume_items: false
+				id: "6BAFBC2AF75B3E0E"
+				item: {
+					Count: 1
+					id: "tide:shooting_starfish"
+					tag: {
+						FishLength: 77.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 7.0d
+		}
+		{
+			id: "7EAB93B9F739C3D4"
+			tasks: [{
+				consume_items: false
+				id: "2B713881C7BC2573"
+				item: {
+					Count: 1
+					id: "tide:coelacanth"
+					tag: {
+						FishLength: 165.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 7.0d
+		}
+		{
+			id: "368CB799CAA1E80A"
+			tasks: [{
+				consume_items: false
+				id: "2C0295C2BCBC1C42"
+				item: {
+					Count: 1
+					id: "tide:cave_eel"
+					tag: {
+						FishLength: 102.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			id: "3B1A6CA17225E0D1"
+			tasks: [{
+				consume_items: false
+				id: "7F67FE4F14023CFE"
+				item: {
+					Count: 1
+					id: "tide:cave_crawler"
+					tag: {
+						FishLength: 52.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 7.0d
+		}
+		{
+			id: "65D6AC80394A49B3"
+			tasks: [{
+				consume_items: false
+				id: "04571BFE0859B1C9"
+				item: {
+					Count: 1
+					id: "tide:deep_grouper"
+					tag: {
+						FishLength: 65.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 7.0d
+		}
+		{
+			id: "32386F48C3C36B10"
+			tasks: [{
+				consume_items: false
+				id: "0BE73E486306EC29"
+				item: {
+					Count: 1
+					id: "tide:glowfish"
+					tag: {
+						FishLength: 65.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.0d
+		}
+		{
+			id: "78BE578370EA4ECC"
+			tasks: [{
+				consume_items: false
+				id: "48B9ED2CCBC72A6C"
+				item: {
+					Count: 1
+					id: "tide:anglerfish"
+					tag: {
+						FishLength: 27.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			id: "3E01A118320CD639"
+			tasks: [{
+				consume_items: false
+				id: "403CBBD009595C6B"
+				item: {
+					Count: 1
+					id: "tide:abyss_angler"
+					tag: {
+						FishLength: 27.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			id: "31EC97E9B79935C3"
+			tasks: [{
+				consume_items: false
+				id: "44DFD31438D6683F"
+				item: {
+					Count: 1
+					id: "tide:iron_tetra"
+					tag: {
+						FishLength: 3.65d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "2BEA9EC73D201996"
+			tasks: [{
+				consume_items: false
+				id: "67A5CDC764305E39"
+				item: {
+					Count: 1
+					id: "tide:lapis_lanternfish"
+					tag: {
+						FishLength: 10.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "29CE6508857526AF"
+			tasks: [{
+				consume_items: false
+				id: "06DF89EF44065D93"
+				item: {
+					Count: 1
+					id: "tide:crystal_shrimp"
+					tag: {
+						FishLength: 6.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "5BC9A2E3EBDC354F"
+			tasks: [{
+				consume_items: false
+				id: "0DF4E4A8C3314FB3"
+				item: {
+					Count: 1
+					id: "tide:dripstone_darter"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "5BB5E0973E4D9204"
+			tasks: [{
+				consume_items: false
+				id: "2AC917946DE589FD"
+				item: {
+					Count: 1
+					id: "tide:luminescent_jellyfish"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "562494F437A80795"
+			tasks: [{
+				consume_items: false
+				id: "5F42749DB822EF5C"
+				item: {
+					Count: 1
+					id: "tide:crystalline_carp"
+					tag: {
+						FishLength: 60.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			id: "0BB9A8FB0EEF6F95"
+			tasks: [{
+				consume_items: false
+				id: "5B9042F2C896A831"
+				item: {
+					Count: 1
+					id: "tide:gilded_minnow"
+					tag: {
+						FishLength: 11.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "6DFC8FC91CF9CE72"
+			tasks: [{
+				consume_items: false
+				id: "73D2668A497EA17B"
+				item: {
+					Count: 1
+					id: "tide:bedrock_tetra"
+					tag: {
+						FishLength: 3.65d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			id: "3667A3E4DDDABEBA"
+			tasks: [{
+				consume_items: false
+				id: "01DADF398B86C598"
+				item: {
+					Count: 1
+					id: "tide:chasm_eel"
+					tag: {
+						FishLength: 150.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			id: "0D421DDDBCEF8878"
+			tasks: [{
+				consume_items: false
+				id: "34E558141A02173D"
+				item: {
+					Count: 1
+					id: "tide:echo_snapper"
+					tag: {
+						FishLength: 75.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			id: "006D78584609EE53"
+			tasks: [{
+				consume_items: false
+				id: "25F8C47EB72373DF"
+				item: {
+					Count: 1
+					id: "tide:devils_hole_pupfish"
+					tag: {
+						FishLength: 2.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			id: "3E1A9E336996FD65"
+			tasks: [{
+				consume_items: false
+				id: "2E935D9F46E0B82F"
+				item: {
+					Count: 1
+					id: "tide:midas_fish"
+					tag: {
+						FishLength: 65.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			id: "39438E05665EC116"
+			tasks: [{
+				consume_items: false
+				id: "6D461160B287707F"
+				item: {
+					Count: 1
+					id: "tide:incandescent_larva"
+					tag: {
+						FishLength: 3.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			id: "42725CAC9B8E0678"
+			tasks: [{
+				consume_items: false
+				id: "218623202FD5D2B0"
+				item: {
+					Count: 1
+					id: "tide:bedrock_bug"
+					tag: {
+						FishLength: 3.75d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 9.0d
+		}
+		{
+			id: "013B3F953CB8D705"
+			tasks: [{
+				consume_items: false
+				id: "4345E909A8B60D29"
+				item: {
+					Count: 1
+					id: "tide:sleepy_carp"
+					tag: {
+						FishLength: 60.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 9.0d
+		}
+		{
+			id: "063A2F16BCDEF00A"
+			tasks: [{
+				consume_items: false
+				id: "12784D8359F68FA9"
+				item: {
+					Count: 1
+					id: "tide:blue_neonfish"
+					tag: {
+						FishLength: 27.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "45F3BE2F621F8AEC"
+			tasks: [{
+				consume_items: false
+				id: "35AD9DC9179B05DF"
+				item: {
+					Count: 1
+					id: "tide:judgment_fish"
+					tag: {
+						FishLength: 60.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "762C1B4349920428"
+			tasks: [{
+				consume_items: false
+				id: "5371A4979BB233D9"
+				item: {
+					Count: 1
+					id: "tide:deep_blue"
+					tag: {
+						FishLength: 51.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			id: "37C81B092FC6001A"
+			tasks: [{
+				consume_items: false
+				id: "6DDA0E70EEBA0886"
+				item: {
+					Count: 1
+					id: "tide:nephrosilu"
+					tag: {
+						FishLength: 72.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			id: "38567F2DFA1EEA93"
+			tasks: [{
+				consume_items: false
+				id: "53EEE2EE5BF5F770"
+				item: {
+					Count: 1
+					id: "tide:vengeance"
+					tag: {
+						FishLength: 65.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			id: "4A8D0374A654A128"
+			tasks: [{
+				consume_items: false
+				id: "6A3C198DCC51D9DA"
+				item: {
+					Count: 1
+					id: "tide:pentapus"
+					tag: {
+						FishLength: 60.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			id: "4840B6BC37E2665F"
+			tasks: [{
+				consume_items: false
+				id: "04D06FB56E6ABAEB"
+				item: {
+					Count: 1
+					id: "tide:darkness_eater"
+					tag: {
+						FishLength: 200.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			id: "495591792456BC0E"
+			tasks: [{
+				consume_items: false
+				id: "379B1F2D61B893E1"
+				item: {
+					Count: 1
+					id: "tide:shadow_shark"
+					tag: {
+						FishLength: 277.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			id: "46B8710111E9C2AC"
+			tasks: [{
+				consume_items: true
+				id: "30A4A1818369983F"
+				item: {
+					Count: 1
+					id: "tide:alpha_fish"
+					tag: {
+						FishLength: 50.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			id: "66AA690063E25C33"
+			tasks: [{
+				consume_items: false
+				id: "5DF43061DA859901"
+				item: {
+					Count: 1
+					id: "tide:magma_mackerel"
+					tag: {
+						FishLength: 37.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			id: "50B2FB51BEC26C00"
+			tasks: [{
+				consume_items: false
+				id: "3744E74BBF6D8482"
+				item: {
+					Count: 1
+					id: "tide:ember_koi"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			id: "68D3720A928B32E4"
+			tasks: [{
+				consume_items: false
+				id: "7F51C2B9170E5F57"
+				item: {
+					Count: 1
+					id: "tide:ender_glider"
+					tag: {
+						FishLength: 59.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			id: "0E056CAAA583081C"
+			tasks: [{
+				consume_items: false
+				id: "16EE6DC7DB6A1CA7"
+				item: {
+					Count: 1
+					id: "tide:rainbow_trout"
+					tag: {
+						FishLength: 62.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			id: "264914CA9AD8D0E6"
+			tasks: [{
+				consume_items: false
+				id: "62FDCFCEDFAE2359"
+				item: {
+					Count: 1
+					id: "tide:slimy_salmon"
+					tag: {
+						FishLength: 75.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			id: "0A6BA8969F01660E"
+			tasks: [{
+				consume_items: false
+				id: "5F2898D53DB71124"
+				item: {
+					Count: 1
+					id: "tide:sailfish"
+					tag: {
+						Damage: 0
+						FishLength: 225.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 7.0d
+		}
+		{
+			id: "758F7AF5AC9C3ECA"
+			tasks: [{
+				consume_items: false
+				id: "69DA4E826EDAF6A1"
+				item: {
+					Count: 1
+					id: "tide:shadow_snapper"
+					tag: {
+						FishLength: 50.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			id: "53D87AC9314DC6EA"
+			tasks: [{
+				consume_items: false
+				id: "633CC90F8ADF8D4B"
+				item: {
+					Count: 1
+					id: "tide:ash_perch"
+					tag: {
+						FishLength: 22.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 10.0d
+		}
+		{
+			id: "676AA2903C1BC066"
+			tasks: [{
+				consume_items: false
+				id: "0290FFC470A84B5F"
+				item: {
+					Count: 1
+					id: "tide:violet_carp"
+					tag: {
+						FishLength: 72.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 11.0d
+		}
+		{
+			id: "10957C2A6DC934AA"
+			tasks: [{
+				consume_items: false
+				id: "5454AC4703ADD5DF"
+				item: {
+					Count: 1
+					id: "tide:endergazer"
+					tag: {
+						FishLength: 30.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			id: "6D045334F2A707DC"
+			tasks: [{
+				consume_items: false
+				id: "33DF744E2AC3492F"
+				item: {
+					Count: 1
+					id: "tide:obsidian_pike"
+					tag: {
+						FishLength: 70.0d
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 10.0d
+		}
+		{
+			id: "38754E0FB7618101"
+			tasks: [{
+				consume_items: false
+				id: "5910D997B35E9E71"
+				item: {
+					Count: 1
+					id: "tide:volcano_tuna"
+					tag: {
+						FishLength: 62.5d
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 10.0d
+		}
+		{
+			id: "1C0A563956E9E5B4"
+			tasks: [{
+				consume_items: false
+				id: "51D7D5810F37CB80"
+				item: {
+					Count: 1
+					id: "tide:inferno_guppy"
+					tag: {
+						FishLength: 5.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "10764903B58D7825"
+			tasks: [{
+				consume_items: false
+				id: "5FD18706C64D558C"
+				item: {
+					Count: 1
+					id: "tide:warped_guppy"
+					tag: {
+						FishLength: 5.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			id: "2F5931A9EC1E5A58"
+			tasks: [{
+				consume_items: false
+				id: "4E9596041B525F0C"
+				item: {
+					Count: 1
+					id: "tide:crimson_fangjaw"
+					tag: {
+						FishLength: 50.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			id: "0F5DB4F8ED36090A"
+			tasks: [{
+				consume_items: false
+				id: "4CF3DA9F792FAF94"
+				item: {
+					Count: 1
+					id: "tide:soulscale"
+					tag: {
+						FishLength: 47.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			id: "7C46E516EC18115E"
+			tasks: [{
+				consume_items: false
+				id: "0DE2DD40E4516968"
+				item: {
+					Count: 1
+					id: "tide:witherfin"
+					tag: {
+						FishLength: 32.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			id: "6F46818B7EF9367C"
+			tasks: [{
+				consume_items: false
+				id: "1AF9816639E8D99C"
+				item: {
+					Count: 1
+					id: "tide:blazing_swordfish"
+					tag: {
+						Damage: 0
+						FishLength: 235.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			id: "16ECE190047FF382"
+			tasks: [{
+				consume_items: false
+				id: "2BB664D5E13D555C"
+				item: {
+					Count: 1
+					id: "tide:pale_clubfish"
+					tag: {
+						FishLength: 52.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			id: "3E1009B96B593272"
+			tasks: [{
+				consume_items: false
+				id: "66440C44B1185C3F"
+				item: {
+					Count: 1
+					id: "tide:amber_rockfish"
+					tag: {
+						FishLength: 47.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			id: "3B72B5D0D1EA027E"
+			tasks: [{
+				consume_items: false
+				id: "7252778A1DE37A03"
+				item: {
+					Count: 1
+					id: "tide:enderfin"
+					tag: {
+						FishLength: 45.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			id: "3278EE41B8B1753F"
+			tasks: [{
+				consume_items: false
+				id: "759886978E1DC7F2"
+				item: {
+					Count: 1
+					id: "tide:chorus_cod"
+					tag: {
+						FishLength: 65.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.0d
+		}
+		{
+			id: "493B6E5E25776BE0"
+			tasks: [{
+				consume_items: false
+				id: "02C9993797CBA5B2"
+				item: {
+					Count: 1
+					id: "tide:voidseeker"
+					tag: {
+						FishLength: 52.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.0d
+		}
+		{
+			id: "0741A248F5F08163"
+			tasks: [{
+				consume_items: false
+				id: "4D3BA3A7AB084B32"
+				item: {
+					Count: 1
+					id: "tide:snatcher_squid"
+					tag: {
+						FishLength: 140.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			id: "560CD93350B28B0F"
+			tasks: [{
+				consume_items: false
+				id: "19933B1D6E85CB80"
+				item: {
+					Count: 1
+					id: "tide:mantyvern"
+					tag: {
+						FishLength: 320.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 11.0d
+		}
+		{
+			id: "052C1641C1B139E1"
+			tasks: [{
+				consume_items: false
+				id: "4E8E6BDC5CFEDBDE"
+				item: {
+					Count: 1
+					id: "tide:red_40"
+					tag: {
+						FishLength: 18.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 11.0d
+		}
+		{
+			id: "2A514C3308F478CA"
+			tasks: [{
+				consume_items: false
+				id: "4E8A0B44337C944F"
+				item: {
+					Count: 1
+					id: "tide:elytrout"
+					tag: {
+						FishLength: 47.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 11.0d
+		}
+		{
+			id: "5995405DA906DAC9"
+			tasks: [{
+				consume_items: false
+				id: "7132C5279777712F"
+				item: {
+					Count: 1
+					id: "tide:dutchman_sock"
+					tag: {
+						FishLength: 5.5d
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			id: "62EDFE330152D151"
+			tasks: [{
+				consume_items: false
+				id: "2CC95BF9B047684B"
+				item: "hybrid-aquatic:raw_shrimp"
+				type: "item"
+			}]
+			title: "Shrimp"
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			id: "756E67F4F76D714B"
+			tasks: [{
+				consume_items: false
+				id: "06B1D42B7F2716B7"
+				item: {
+					Count: 1
+					id: "fishofthieves:islehopper"
+					tag: {
+						islehopper_variant: "fishofthieves:stone"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "69B2EDD7C5BF848A"
+			tasks: [{
+				consume_items: false
+				id: "359161D0B6559490"
+				item: {
+					Count: 1
+					id: "fishofthieves:devilfish"
+					tag: {
+						devilfish_variant: "fishofthieves:ashen"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			id: "78CD817093A6344E"
+			tasks: [{
+				consume_items: false
+				id: "48920DA1D467983D"
+				item: {
+					Count: 1
+					id: "fishofthieves:pondie"
+					tag: {
+						pondie_variant: "fishofthieves:charcoal"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "7FCD2615CFCE2307"
+			tasks: [{
+				consume_items: false
+				id: "57021060F872D011"
+				item: {
+					Count: 1
+					id: "fishofthieves:wildsplash"
+					tag: {
+						wildsplash_variant: "fishofthieves:russet"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "09BFA8F463EA53C6"
+			tasks: [{
+				consume_items: false
+				id: "57D572A349800DCC"
+				item: {
+					Count: 1
+					id: "fishofthieves:splashtail"
+					tag: {
+						splashtail_variant: "fishofthieves:ruby"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			id: "730F48B673A86E20"
+			tasks: [{
+				consume_items: false
+				id: "01540B6B1092BD38"
+				item: {
+					Count: 1
+					id: "fishofthieves:plentifin"
+					tag: {
+						plentifin_variant: "fishofthieves:olive"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "187B4EB70CBD445D"
+			tasks: [{
+				consume_items: false
+				id: "154A1668723198A5"
+				item: {
+					Count: 1
+					id: "fishofthieves:battlegill"
+					tag: {
+						battlegill_variant: "fishofthieves:jade"
+					}
+				}
+				type: "item"
+			}]
+			x: -2.5d
+			y: 2.0d
+		}
+		{
+			id: "5B609F97AEDA6A03"
+			tasks: [{
+				consume_items: false
+				id: "1678A0D4FE55C7C0"
+				item: {
+					Count: 1
+					id: "fishofthieves:wrecker"
+					tag: {
+						wrecker_variant: "fishofthieves:rose"
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			id: "78CF7DEAE1BE7E22"
+			tasks: [{
+				consume_items: false
+				id: "3927EFD6C2EE5025"
+				item: {
+					Count: 1
+					id: "fishofthieves:stormfish"
+					tag: {
+						stormfish_variant: "fishofthieves:ancient"
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			id: "367D8F1EE6899683"
+			tasks: [{
+				consume_items: false
+				id: "39F096D78D2E84C9"
+				item: {
+					Count: 1
+					id: "fishofthieves:ancientscale"
+					tag: {
+						ancientscale_variant: "fishofthieves:almond"
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.0d
+		}
+		{
+			id: "5CB9135B1FEEF8B4"
+			tasks: [{
+				consume_items: false
+				id: "293F7815039D2983"
+				item: {
+					Count: 1
+					id: "tide:dragon_fish"
+					tag: {
+						FishLength: 650.0d
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+	]
+	title: "Fishing"
+}
