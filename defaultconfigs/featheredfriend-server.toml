@@ -1,0 +1,26 @@
+
+[calendar]
+	#Names of the 8 calendar months, in order.
+	#If the list is missing or has the wrong size,
+	#the mod will fall back to its built-in defaults.
+	monthNames = ["Dawnroot", "Blossomwake", "Greengale", "Suncrest", "Stormfall", "Shadowmere", "Frostveil", "Darkrest"]
+	#Year suffix string, e.g. "A.N." for "After Notch".
+	#Used when displaying dates like: Day 17 of Dawnroot, 112 A.N.
+	yearSuffix = "A.N."
+	#How many in-game days each month lasts before progressing to the next month.
+	#This is server-authoritative and synced to clients.
+	#
+	#Examples:
+	#- Vanilla-ish fantasy default: 28
+	#- Perfect sync with Serene Seasons sub_season_duration=16: set this to 24
+	#
+	#Valid range: 1..365
+	#Range: 1 ~ 365
+	daysPerMonth = 28
+
+[settings]
+	#Default for FeatheredFriend's world-owned chat flag when the world SavedData has no value yet.
+	#If true, chat is disabled by default until an admin enables it in-game.
+	#This does NOT forcibly override the world value every boot; it is only used as a fallback default.
+	chatDisabledDefault = false
+
