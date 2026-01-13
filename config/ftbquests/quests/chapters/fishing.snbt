@@ -11,6 +11,14 @@
 		}
 	}
 	id: "22C4AB529E25EC94"
+	images: [{
+		height: 4.0d
+		image: "ps_quests:textures/quests/fishingcollectiontitle.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: 4.5d
+		y: -6.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -18,19 +26,16 @@
 			can_repeat: false
 			dependencies: [
 				"6436AD3B7C7188FC"
-				"3E9D5FCE5EBCC7E6"
 				"74FF7A235EDD458B"
 				"5E89499554F12766"
 				"7E41ECAE711DBF7F"
 				"555039ED1EB4A318"
 				"473368913F5A636C"
 				"726C73E07DF4DE6D"
-				"7525215A614A5FAC"
 				"09CBC0AE7C3634CD"
 				"6390122B47968532"
 				"5B1E312754CDB4D6"
 				"30762DB1E9207145"
-				"5037BC79C8A397CE"
 				"76E8D2B3B9B618C9"
 				"69CE610F8DF48390"
 				"7F876EB83C854F9D"
@@ -41,9 +46,6 @@
 				"028C49AA983E4937"
 				"414258EC853D93A1"
 				"7CFC0FD1DF12D908"
-				"7E3C52C4BAAF766F"
-				"7872C31E325BE50D"
-				"322C582395DDA76E"
 				"15456D5BEF15FE48"
 				"30CF9A3B72246896"
 				"7A44167414E1DC99"
@@ -56,15 +58,12 @@
 				"30B479A8708D004C"
 				"16F449A8D919A198"
 				"62EDFE330152D151"
-				"506125E8A10BC560"
 				"6918B5BF8D2A936B"
 				"7F811480074439AD"
 				"5CFE41FC6E5085B8"
 				"3796DC828FF7CD08"
 				"5D0A11D9D5B70189"
-				"28C90D46BC5213AF"
 				"51955A23C8E3BAA1"
-				"12EF86CD86CE9A1A"
 				"26C708E9CE907D46"
 				"763F7A5052706C1A"
 				"407B546FFF70A663"
@@ -180,6 +179,15 @@
 				"756E67F4F76D714B"
 				"187B4EB70CBD445D"
 				"5B609F97AEDA6A03"
+				"4329F6BA687CEFFF"
+				"5EC676DF1079B110"
+				"1DD82BCE7045D006"
+				"7ABCD3730FC6F4EE"
+				"5B7AA4162A4440A1"
+				"7193C470843FCCA5"
+				"5DC97AA3E1A343D2"
+				"17E13CBA5D518B16"
+				"2AF5594EC150D014"
 			]
 			description: [
 				"The waters of this world are woven with ancient magic, flowing through forests, oceans, and realms beyond the Overworld. Many creatures dwell beneath the surface, some common, others bound to rare biomes or distant dimensions."
@@ -198,7 +206,6 @@
 			}
 			icon_scale: 1.3d
 			id: "732C6B1B932A59F7"
-			progression_mode: "flexible"
 			rewards: [
 				{
 					id: "1326664DE862DCDD"
@@ -222,16 +229,16 @@
 					type: "command"
 				}
 			]
-			shape: "hexagon"
-			size: 3.0d
+			shape: "none"
+			size: 4.0d
 			subtitle: "Fishing Collection Complete"
 			tasks: [{
 				id: "04C845BCDC2F4BCA"
 				type: "checkmark"
 			}]
 			title: "Grand Angler"
-			x: 3.1505031279048623d
-			y: 1.0675825868796593d
+			x: 4.121704993761668d
+			y: 1.1768821704093142d
 		}
 		{
 			id: "3E2E900CC4AF83A7"
@@ -241,8 +248,8 @@
 				item: "minecraft:pufferfish"
 				type: "item"
 			}]
-			x: 4.677320642310534d
-			y: -1.994087261480093d
+			x: 13.5d
+			y: 0.5d
 		}
 		{
 			id: "0DF5267C84B0FE91"
@@ -252,8 +259,8 @@
 				item: "minecraft:tropical_fish"
 				type: "item"
 			}]
-			x: 2.6773206423105336d
-			y: -1.994087261480093d
+			x: 14.0d
+			y: -2.5d
 		}
 		{
 			id: "50E6792E67A47A37"
@@ -264,8 +271,8 @@
 				type: "item"
 			}]
 			title: "Cod"
-			x: 1.5d
-			y: -2.0d
+			x: 13.0d
+			y: -2.5d
 		}
 		{
 			id: "79A9EE49A3882CE0"
@@ -276,8 +283,8 @@
 				type: "item"
 			}]
 			title: "Salmon"
-			x: 3.6773206423105336d
-			y: -1.994087261480093d
+			x: -4.5d
+			y: -2.5d
 		}
 		{
 			id: "5A5179BECF8DB533"
@@ -287,8 +294,8 @@
 				item: "hybrid-aquatic:betta"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -1.0d
+			x: -2.0d
+			y: 0.5d
 		}
 		{
 			id: "473368913F5A636C"
@@ -298,8 +305,8 @@
 				item: "hybrid-aquatic:danio"
 				type: "item"
 			}]
-			x: 10.5d
-			y: -1.0d
+			x: -1.0d
+			y: 0.5d
 		}
 		{
 			id: "7CFC0FD1DF12D908"
@@ -309,8 +316,8 @@
 				item: "hybrid-aquatic:neon_tetra"
 				type: "item"
 			}]
-			x: 11.5d
-			y: -1.0d
+			x: -6.0d
+			y: 1.5d
 		}
 		{
 			id: "4F640F541C4AAAAC"
@@ -320,8 +327,8 @@
 				item: "hybrid-aquatic:discus"
 				type: "item"
 			}]
-			x: 12.5d
-			y: -1.0d
+			x: -1.0d
+			y: 1.5d
 		}
 		{
 			id: "5B1E312754CDB4D6"
@@ -331,8 +338,8 @@
 				item: "hybrid-aquatic:tiger_barb"
 				type: "item"
 			}]
-			x: 13.5d
-			y: -1.0d
+			x: -2.0d
+			y: 1.5d
 		}
 		{
 			id: "555039ED1EB4A318"
@@ -342,8 +349,8 @@
 				item: "hybrid-aquatic:oscar"
 				type: "item"
 			}]
-			x: 14.5d
-			y: -1.0d
+			x: -5.5d
+			y: 2.5d
 		}
 		{
 			id: "726C73E07DF4DE6D"
@@ -353,41 +360,8 @@
 				item: "hybrid-aquatic:gourami"
 				type: "item"
 			}]
-			x: 15.5d
-			y: -1.0d
-		}
-		{
-			id: "28C90D46BC5213AF"
-			tasks: [{
-				consume_items: false
-				id: "1CD5953B14B13677"
-				item: "hybrid-aquatic:carp"
-				type: "item"
-			}]
-			x: 9.5d
-			y: 0.0d
-		}
-		{
-			id: "3E9D5FCE5EBCC7E6"
-			tasks: [{
-				consume_items: false
-				id: "2B6CB42C299DA50E"
-				item: "hybrid-aquatic:pleco"
-				type: "item"
-			}]
-			x: 10.5d
-			y: 0.0d
-		}
-		{
-			id: "506125E8A10BC560"
-			tasks: [{
-				consume_items: false
-				id: "0DC0AB024C1B43BA"
-				item: "hybrid-aquatic:anglerfish"
-				type: "item"
-			}]
-			x: 11.5d
-			y: 0.0d
+			x: -5.0d
+			y: 1.5d
 		}
 		{
 			id: "28CC3EADAD4D24FD"
@@ -397,8 +371,8 @@
 				item: "hybrid-aquatic:barreleye"
 				type: "item"
 			}]
-			x: 12.5d
-			y: 0.0d
+			x: 9.0d
+			y: 7.0d
 		}
 		{
 			id: "4E7924E9FFE712A3"
@@ -408,8 +382,8 @@
 				item: "hybrid-aquatic:dragonfish"
 				type: "item"
 			}]
-			x: 13.5d
-			y: 0.0d
+			x: 10.0d
+			y: 7.0d
 		}
 		{
 			id: "3796DC828FF7CD08"
@@ -420,7 +394,7 @@
 				type: "item"
 			}]
 			x: 14.5d
-			y: 0.0d
+			y: 0.5d
 		}
 		{
 			id: "7C71F6BB780AC3EF"
@@ -430,8 +404,8 @@
 				item: "hybrid-aquatic:ratfish"
 				type: "item"
 			}]
-			x: 15.5d
-			y: 0.0d
+			x: 6.5d
+			y: 6.0d
 		}
 		{
 			id: "6918B5BF8D2A936B"
@@ -442,7 +416,7 @@
 				type: "item"
 			}]
 			x: 9.5d
-			y: 1.0d
+			y: 1.5d
 		}
 		{
 			id: "6436AD3B7C7188FC"
@@ -452,8 +426,8 @@
 				item: "hybrid-aquatic:boxfish"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 2.0d
+			x: 10.5d
+			y: 0.5d
 		}
 		{
 			id: "4A0D61C2FB447620"
@@ -463,8 +437,8 @@
 				item: "hybrid-aquatic:sea_bass"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 3.0d
+			x: 15.0d
+			y: -1.5d
 		}
 		{
 			id: "69CE610F8DF48390"
@@ -475,7 +449,7 @@
 				type: "item"
 			}]
 			x: 10.5d
-			y: 1.0d
+			y: 1.5d
 		}
 		{
 			id: "7F811480074439AD"
@@ -485,19 +459,8 @@
 				item: "hybrid-aquatic:seahorse"
 				type: "item"
 			}]
-			x: 11.5d
-			y: 1.0d
-		}
-		{
-			id: "7872C31E325BE50D"
-			tasks: [{
-				consume_items: false
-				id: "36483F9D0E55A9B5"
-				item: "hybrid-aquatic:mackerel"
-				type: "item"
-			}]
-			x: 12.5d
-			y: 1.0d
+			x: 15.5d
+			y: 0.5d
 		}
 		{
 			id: "30B479A8708D004C"
@@ -507,8 +470,8 @@
 				item: "hybrid-aquatic:herring"
 				type: "item"
 			}]
-			x: 13.5d
-			y: 1.0d
+			x: 11.0d
+			y: -0.5d
 		}
 		{
 			id: "7E41ECAE711DBF7F"
@@ -518,8 +481,8 @@
 				item: "hybrid-aquatic:flying_fish"
 				type: "item"
 			}]
-			x: 14.5d
-			y: 1.0d
+			x: 16.0d
+			y: -0.5d
 		}
 		{
 			id: "16F449A8D919A198"
@@ -529,8 +492,8 @@
 				item: "hybrid-aquatic:john_dory"
 				type: "item"
 			}]
-			x: 15.5d
-			y: 1.0d
+			x: 9.0d
+			y: 5.0d
 		}
 		{
 			id: "5CFE41FC6E5085B8"
@@ -540,8 +503,8 @@
 				item: "hybrid-aquatic:blowfish"
 				type: "item"
 			}]
-			x: 10.5d
-			y: 2.0d
+			x: 11.5d
+			y: 1.5d
 		}
 		{
 			id: "028C49AA983E4937"
@@ -551,8 +514,8 @@
 				item: "hybrid-aquatic:stonefish"
 				type: "item"
 			}]
-			x: 11.5d
-			y: 2.0d
+			x: 14.5d
+			y: 1.5d
 		}
 		{
 			id: "74FF7A235EDD458B"
@@ -562,8 +525,8 @@
 				item: "hybrid-aquatic:golden_dorado"
 				type: "item"
 			}]
-			x: 12.5d
-			y: 2.0d
+			x: -3.5d
+			y: 2.5d
 		}
 		{
 			id: "414258EC853D93A1"
@@ -573,8 +536,8 @@
 				item: "hybrid-aquatic:lionfish"
 				type: "item"
 			}]
-			x: 13.5d
-			y: 2.0d
+			x: 17.5d
+			y: 0.5d
 		}
 		{
 			id: "08EBAB25CDC5B6C0"
@@ -584,8 +547,8 @@
 				item: "hybrid-aquatic:blue_spotted_stingray"
 				type: "item"
 			}]
-			x: 14.5d
-			y: 2.0d
+			x: 17.5d
+			y: 1.5d
 		}
 		{
 			id: "30D54301A133EF4D"
@@ -595,19 +558,8 @@
 				item: "hybrid-aquatic:spotted_eagle_ray"
 				type: "item"
 			}]
-			x: 15.5d
-			y: 2.0d
-		}
-		{
-			id: "322C582395DDA76E"
-			tasks: [{
-				consume_items: false
-				id: "16924BED5704563E"
-				item: "hybrid-aquatic:coelacanth"
-				type: "item"
-			}]
-			x: 10.5d
-			y: 3.0d
+			x: 16.5d
+			y: 1.5d
 		}
 		{
 			id: "6390122B47968532"
@@ -617,8 +569,8 @@
 				item: "hybrid-aquatic:needlefish"
 				type: "item"
 			}]
-			x: 11.5d
-			y: 3.0d
+			x: 12.5d
+			y: 1.5d
 		}
 		{
 			id: "51955A23C8E3BAA1"
@@ -628,8 +580,8 @@
 				item: "hybrid-aquatic:parrotfish"
 				type: "item"
 			}]
-			x: 12.5d
-			y: 3.0d
+			x: 15.0d
+			y: -0.5d
 		}
 		{
 			id: "15456D5BEF15FE48"
@@ -639,8 +591,8 @@
 				item: "hybrid-aquatic:sheepshead_wrasse"
 				type: "item"
 			}]
-			x: 13.5d
-			y: 3.0d
+			x: 17.0d
+			y: -0.5d
 		}
 		{
 			id: "26C708E9CE907D46"
@@ -650,19 +602,8 @@
 				item: "hybrid-aquatic:moray_eel"
 				type: "item"
 			}]
-			x: 14.5d
-			y: 3.0d
-		}
-		{
-			id: "7E3C52C4BAAF766F"
-			tasks: [{
-				consume_items: false
-				id: "717E1354797C3292"
-				item: "hybrid-aquatic:tuna"
-				type: "item"
-			}]
 			x: 15.5d
-			y: 3.0d
+			y: 1.5d
 		}
 		{
 			id: "30CF9A3B72246896"
@@ -673,7 +614,7 @@
 				type: "item"
 			}]
 			title: "Crayfish"
-			x: 8.5d
+			x: 8.0d
 			y: -1.0d
 		}
 		{
@@ -684,8 +625,8 @@
 				item: "hybrid-aquatic:goldfish"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 0.0d
+			x: -4.0d
+			y: 0.5d
 		}
 		{
 			id: "723265561A249F96"
@@ -695,8 +636,8 @@
 				item: "hybrid-aquatic:clownfish"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 1.0d
+			x: 12.5d
+			y: 0.5d
 		}
 		{
 			id: "4D891185F9517E71"
@@ -706,8 +647,8 @@
 				item: "hybrid-aquatic:snailfish"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 2.0d
+			x: 7.5d
+			y: 4.0d
 		}
 		{
 			id: "7A44167414E1DC99"
@@ -717,8 +658,8 @@
 				item: "hybrid-aquatic:rockfish"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 3.0d
+			x: 9.5d
+			y: 0.5d
 		}
 		{
 			id: "30762DB1E9207145"
@@ -728,8 +669,8 @@
 				item: "hybrid-aquatic:piranha"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 0.0d
+			x: -3.0d
+			y: -1.5d
 		}
 		{
 			id: "76E8D2B3B9B618C9"
@@ -739,8 +680,8 @@
 				item: "hybrid-aquatic:squirrelfish"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 1.0d
+			x: 16.5d
+			y: 0.5d
 		}
 		{
 			id: "5E89499554F12766"
@@ -750,30 +691,8 @@
 				item: "hybrid-aquatic:pearlfish"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 2.0d
-		}
-		{
-			id: "12EF86CD86CE9A1A"
-			tasks: [{
-				consume_items: false
-				id: "29AF7761BC9D2EEB"
-				item: "hybrid-aquatic:triggerfish"
-				type: "item"
-			}]
-			x: 7.5d
-			y: 3.0d
-		}
-		{
-			id: "5037BC79C8A397CE"
-			tasks: [{
-				consume_items: false
-				id: "7374F0472387B5BB"
-				item: "hybrid-aquatic:mahi"
-				type: "item"
-			}]
-			x: 16.5d
-			y: -0.5d
+			x: 13.0d
+			y: 4.5d
 		}
 		{
 			id: "09CBC0AE7C3634CD"
@@ -783,8 +702,8 @@
 				item: "hybrid-aquatic:opah"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 2.5d
+			x: 13.5d
+			y: 1.5d
 		}
 		{
 			id: "5D0A11D9D5B70189"
@@ -794,19 +713,8 @@
 				item: "hybrid-aquatic:oarfish"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 0.5d
-		}
-		{
-			id: "7525215A614A5FAC"
-			tasks: [{
-				consume_items: false
-				id: "5119156C26063700"
-				item: "hybrid-aquatic:ocean_sunfish"
-				type: "item"
-			}]
-			x: 16.5d
-			y: 1.5d
+			x: 6.5d
+			y: 8.0d
 		}
 		{
 			id: "10C7084000BC84AC"
@@ -822,8 +730,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 5.0d
+			x: -5.5d
+			y: -0.5d
 		}
 		{
 			id: "7382779DBC3D25F2"
@@ -839,8 +747,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 5.0d
+			x: -5.0d
+			y: -1.5d
 		}
 		{
 			id: "35306E6CD3B46C08"
@@ -856,8 +764,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 5.0d
+			x: -1.5d
+			y: -0.5d
 		}
 		{
 			id: "450FCB76CA603E2F"
@@ -873,8 +781,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.0d
+			x: -4.5d
+			y: -0.5d
 		}
 		{
 			id: "7B0F7E36EDC7B411"
@@ -890,8 +798,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 5.0d
+			x: -3.5d
+			y: -0.5d
 		}
 		{
 			id: "3950EFED57B606ED"
@@ -907,8 +815,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 5.0d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			id: "7E85AB90646E80ED"
@@ -924,8 +832,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 5.0d
+			x: -2.5d
+			y: -0.5d
 		}
 		{
 			id: "6789FCE1EBDC9CDF"
@@ -941,8 +849,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: -6.0d
+			y: 0.5d
 		}
 		{
 			id: "5E1BB305F2343F0F"
@@ -958,8 +866,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 5.0d
+			x: -3.0d
+			y: 0.5d
 		}
 		{
 			id: "5701F1BC8873F64C"
@@ -975,8 +883,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: -5.0d
+			y: 0.5d
 		}
 		{
 			id: "4D484606F66404AC"
@@ -992,8 +900,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 6.0d
+			x: -2.5d
+			y: 4.5d
 		}
 		{
 			id: "0D07EB2F41C28C6C"
@@ -1009,8 +917,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 6.0d
+			x: -3.0d
+			y: 3.5d
 		}
 		{
 			id: "1230AA857FBCBC31"
@@ -1026,8 +934,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 6.0d
+			x: -2.5d
+			y: 2.5d
 		}
 		{
 			id: "0C673388D8DEC77B"
@@ -1043,8 +951,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 6.0d
+			x: 10.0d
+			y: 2.5d
 		}
 		{
 			id: "3CCD4774233BF6BB"
@@ -1060,8 +968,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 6.0d
+			x: -4.5d
+			y: 4.5d
 		}
 		{
 			id: "68D1347948353B4A"
@@ -1077,8 +985,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 6.0d
+			x: -3.5d
+			y: 4.5d
 		}
 		{
 			id: "3B9CBEB36E7F7163"
@@ -1094,8 +1002,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 6.0d
+			x: 12.0d
+			y: -1.5d
 		}
 		{
 			id: "2917CCEA0BEA90B7"
@@ -1111,8 +1019,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 6.0d
+			x: 11.0d
+			y: -1.5d
 		}
 		{
 			id: "051AD971E810E622"
@@ -1128,8 +1036,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 6.0d
+			x: 14.0d
+			y: -0.5d
 		}
 		{
 			id: "37679DF6A7234C6F"
@@ -1145,8 +1053,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 6.0d
+			x: 13.0d
+			y: -0.5d
 		}
 		{
 			id: "660CAC37F6022CB8"
@@ -1162,8 +1070,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 5.0d
+			x: -3.0d
+			y: 1.5d
 		}
 		{
 			id: "14E4E3CC7DA4BD1D"
@@ -1179,8 +1087,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 5.0d
+			x: -4.0d
+			y: 1.5d
 		}
 		{
 			id: "763F7A5052706C1A"
@@ -1196,8 +1104,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 5.0d
+			x: -1.5d
+			y: 2.5d
 		}
 		{
 			id: "1F271E970704516C"
@@ -1213,8 +1121,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 5.0d
+			x: -5.0d
+			y: 3.5d
 		}
 		{
 			id: "4391085DA7127027"
@@ -1230,8 +1138,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: -4.0d
+			y: 3.5d
 		}
 		{
 			id: "577352259EF4045E"
@@ -1248,7 +1156,7 @@
 				type: "item"
 			}]
 			x: 11.0d
-			y: 6.0d
+			y: 2.5d
 		}
 		{
 			id: "717389F0ADB276B5"
@@ -1264,8 +1172,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 6.0d
+			x: 11.5d
+			y: 0.5d
 		}
 		{
 			id: "7DD894605E79E4E9"
@@ -1281,8 +1189,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 6.0d
+			x: 16.0d
+			y: -1.5d
 		}
 		{
 			id: "19E9EB18332FE5CF"
@@ -1298,8 +1206,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 6.0d
+			x: 12.0d
+			y: -2.5d
 		}
 		{
 			id: "195A1CFCCD2CA27C"
@@ -1315,8 +1223,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 6.0d
+			x: 15.0d
+			y: -2.5d
 		}
 		{
 			id: "294CDCE9B9A09E34"
@@ -1333,8 +1241,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 7.0d
+			x: 13.0d
+			y: 2.5d
 		}
 		{
 			id: "47D29F0873DDA19C"
@@ -1350,8 +1258,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 7.0d
+			x: 14.0d
+			y: 2.5d
 		}
 		{
 			id: "1C0B0DFF82A5E22B"
@@ -1367,8 +1275,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 7.0d
+			x: 17.0d
+			y: 2.5d
 		}
 		{
 			id: "7D3390A35B2700E1"
@@ -1384,8 +1292,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.0d
+			x: 12.0d
+			y: 3.5d
 		}
 		{
 			id: "675BCAF6440C725B"
@@ -1401,8 +1309,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 7.0d
+			x: 11.0d
+			y: 3.5d
 		}
 		{
 			id: "6A393E84C5EA3DE5"
@@ -1418,8 +1326,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 7.0d
+			x: 13.0d
+			y: 3.5d
 		}
 		{
 			id: "2779AD12A7A70462"
@@ -1435,8 +1343,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.0d
+			x: 14.0d
+			y: 3.5d
 		}
 		{
 			id: "6942BF641D15A640"
@@ -1452,8 +1360,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.0d
+			x: 15.0d
+			y: 3.5d
 		}
 		{
 			id: "6635F3F3C87101D1"
@@ -1469,8 +1377,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 7.0d
+			x: 16.0d
+			y: 3.5d
 		}
 		{
 			id: "407B546FFF70A663"
@@ -1486,8 +1394,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.0d
+			x: 12.0d
+			y: 4.5d
 		}
 		{
 			id: "523F6BF9C27805CF"
@@ -1503,8 +1411,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 7.0d
+			x: 14.0d
+			y: 4.5d
 		}
 		{
 			id: "7EAB93B9F739C3D4"
@@ -1520,8 +1428,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 7.0d
+			x: 15.0d
+			y: 4.5d
 		}
 		{
 			id: "368CB799CAA1E80A"
@@ -1537,8 +1445,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 7.0d
+			x: 7.5d
+			y: 2.0d
 		}
 		{
 			id: "3B1A6CA17225E0D1"
@@ -1554,8 +1462,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 7.0d
+			x: 8.0d
+			y: 3.0d
 		}
 		{
 			id: "65D6AC80394A49B3"
@@ -1571,8 +1479,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 7.0d
+			x: 7.0d
+			y: 3.0d
 		}
 		{
 			id: "32386F48C3C36B10"
@@ -1588,8 +1496,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 8.0d
+			x: 6.0d
+			y: 5.0d
 		}
 		{
 			id: "78BE578370EA4ECC"
@@ -1605,8 +1513,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 8.0d
+			x: 7.0d
+			y: 5.0d
 		}
 		{
 			id: "3E01A118320CD639"
@@ -1622,8 +1530,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 8.0d
+			x: 8.0d
+			y: 5.0d
 		}
 		{
 			id: "31EC97E9B79935C3"
@@ -1639,8 +1547,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.0d
+			x: 5.5d
+			y: 6.0d
 		}
 		{
 			id: "2BEA9EC73D201996"
@@ -1656,8 +1564,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 8.0d
+			x: 8.5d
+			y: 6.0d
 		}
 		{
 			id: "29CE6508857526AF"
@@ -1673,8 +1581,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 8.0d
+			x: 9.5d
+			y: 6.0d
 		}
 		{
 			id: "5BC9A2E3EBDC354F"
@@ -1690,8 +1598,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 8.0d
+			x: 7.5d
+			y: 6.0d
 		}
 		{
 			id: "5BB5E0973E4D9204"
@@ -1707,8 +1615,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 8.0d
+			x: 6.0d
+			y: 7.0d
 		}
 		{
 			id: "562494F437A80795"
@@ -1725,7 +1633,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 8.0d
+			y: 7.0d
 		}
 		{
 			id: "0BB9A8FB0EEF6F95"
@@ -1741,8 +1649,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 8.0d
+			x: 7.0d
+			y: 7.0d
 		}
 		{
 			id: "6DFC8FC91CF9CE72"
@@ -1758,8 +1666,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 8.0d
+			x: 8.0d
+			y: 7.0d
 		}
 		{
 			id: "3667A3E4DDDABEBA"
@@ -1775,7 +1683,7 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
+			x: 7.5d
 			y: 8.0d
 		}
 		{
@@ -1792,7 +1700,7 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
+			x: 5.5d
 			y: 8.0d
 		}
 		{
@@ -1809,7 +1717,7 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
+			x: 9.5d
 			y: 8.0d
 		}
 		{
@@ -1826,7 +1734,7 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
+			x: 8.5d
 			y: 8.0d
 		}
 		{
@@ -1843,8 +1751,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 9.0d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			id: "42725CAC9B8E0678"
@@ -1860,8 +1768,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 9.0d
+			x: 1.0d
+			y: 4.0d
 		}
 		{
 			id: "013B3F953CB8D705"
@@ -1877,8 +1785,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 9.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			id: "063A2F16BCDEF00A"
@@ -1894,8 +1802,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 9.0d
+			x: 2.5d
+			y: 5.0d
 		}
 		{
 			id: "45F3BE2F621F8AEC"
@@ -1911,8 +1819,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.0d
-			y: 9.0d
+			x: -1.0d
+			y: 6.0d
 		}
 		{
 			id: "762C1B4349920428"
@@ -1928,8 +1836,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 9.0d
+			x: 0.0d
+			y: 6.0d
 		}
 		{
 			id: "37C81B092FC6001A"
@@ -1945,8 +1853,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 9.0d
+			x: 2.0d
+			y: 6.0d
 		}
 		{
 			id: "38567F2DFA1EEA93"
@@ -1962,8 +1870,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 9.0d
+			x: -0.5d
+			y: 7.0d
 		}
 		{
 			id: "4A8D0374A654A128"
@@ -1979,8 +1887,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 9.0d
+			x: 0.5d
+			y: 7.0d
 		}
 		{
 			id: "4840B6BC37E2665F"
@@ -1996,8 +1904,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 9.0d
+			x: -1.0d
+			y: 8.0d
 		}
 		{
 			id: "495591792456BC0E"
@@ -2013,8 +1921,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 9.0d
+			x: 0.0d
+			y: 8.0d
 		}
 		{
 			id: "46B8710111E9C2AC"
@@ -2030,8 +1938,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 9.0d
+			x: 2.0d
+			y: 8.0d
 		}
 		{
 			id: "66AA690063E25C33"
@@ -2047,8 +1955,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 9.0d
+			x: 0.5d
+			y: -4.0d
 		}
 		{
 			id: "50B2FB51BEC26C00"
@@ -2064,8 +1972,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 9.0d
+			x: 1.5d
+			y: -4.0d
 		}
 		{
 			id: "68D3720A928B32E4"
@@ -2081,8 +1989,8 @@
 				}
 				type: "item"
 			}]
-			x: 10.0d
-			y: 10.0d
+			x: 0.5d
+			y: 5.0d
 		}
 		{
 			id: "0E056CAAA583081C"
@@ -2098,8 +2006,8 @@
 				}
 				type: "item"
 			}]
-			x: -4.0d
-			y: 5.0d
+			x: -2.5d
+			y: -2.5d
 		}
 		{
 			id: "264914CA9AD8D0E6"
@@ -2115,8 +2023,8 @@
 				}
 				type: "item"
 			}]
-			x: -4.0d
-			y: 6.0d
+			x: -2.0d
+			y: 3.5d
 		}
 		{
 			id: "0A6BA8969F01660E"
@@ -2133,8 +2041,8 @@
 				}
 				type: "item"
 			}]
-			x: -4.0d
-			y: 7.0d
+			x: 12.0d
+			y: 2.5d
 		}
 		{
 			id: "758F7AF5AC9C3ECA"
@@ -2150,8 +2058,8 @@
 				}
 				type: "item"
 			}]
-			x: -4.0d
-			y: 8.0d
+			x: 6.5d
+			y: 4.0d
 		}
 		{
 			id: "53D87AC9314DC6EA"
@@ -2167,8 +2075,8 @@
 				}
 				type: "item"
 			}]
-			x: -3.0d
-			y: 10.0d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			id: "676AA2903C1BC066"
@@ -2184,8 +2092,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: 11.0d
+			x: 1.0d
+			y: 6.0d
 		}
 		{
 			id: "10957C2A6DC934AA"
@@ -2201,8 +2109,8 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 11.0d
+			x: 1.5d
+			y: 5.0d
 		}
 		{
 			id: "6D045334F2A707DC"
@@ -2218,8 +2126,8 @@
 				}
 				type: "item"
 			}]
-			x: -2.0d
-			y: 10.0d
+			x: 1.0d
+			y: -3.0d
 		}
 		{
 			id: "38754E0FB7618101"
@@ -2235,8 +2143,8 @@
 				}
 				type: "item"
 			}]
-			x: -1.0d
-			y: 10.0d
+			x: 2.0d
+			y: -3.0d
 		}
 		{
 			id: "1C0A563956E9E5B4"
@@ -2252,8 +2160,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.0d
-			y: 10.0d
+			x: 1.5d
+			y: -1.0d
 		}
 		{
 			id: "10764903B58D7825"
@@ -2270,7 +2178,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 10.0d
+			y: -2.0d
 		}
 		{
 			id: "2F5931A9EC1E5A58"
@@ -2286,8 +2194,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.0d
-			y: 10.0d
+			x: 0.0d
+			y: -2.0d
 		}
 		{
 			id: "0F5DB4F8ED36090A"
@@ -2303,8 +2211,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.0d
-			y: 10.0d
+			x: 2.0d
+			y: -2.0d
 		}
 		{
 			id: "7C46E516EC18115E"
@@ -2320,8 +2228,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.0d
-			y: 10.0d
+			x: 0.5d
+			y: -1.0d
 		}
 		{
 			id: "6F46818B7EF9367C"
@@ -2338,8 +2246,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.0d
-			y: 10.0d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			id: "16ECE190047FF382"
@@ -2355,8 +2263,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.0d
-			y: 10.0d
+			x: 0.5d
+			y: 3.0d
 		}
 		{
 			id: "3E1009B96B593272"
@@ -2372,8 +2280,8 @@
 				}
 				type: "item"
 			}]
-			x: 7.0d
-			y: 10.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			id: "3B72B5D0D1EA027E"
@@ -2389,8 +2297,8 @@
 				}
 				type: "item"
 			}]
-			x: 8.0d
-			y: 10.0d
+			x: 1.5d
+			y: 3.0d
 		}
 		{
 			id: "3278EE41B8B1753F"
@@ -2406,8 +2314,8 @@
 				}
 				type: "item"
 			}]
-			x: 9.0d
-			y: 10.0d
+			x: -0.5d
+			y: 5.0d
 		}
 		{
 			id: "493B6E5E25776BE0"
@@ -2423,8 +2331,8 @@
 				}
 				type: "item"
 			}]
-			x: 6.5d
-			y: 11.0d
+			x: 1.0d
+			y: 8.0d
 		}
 		{
 			id: "0741A248F5F08163"
@@ -2440,8 +2348,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: 11.0d
+			x: 3.5d
+			y: 7.0d
 		}
 		{
 			id: "560CD93350B28B0F"
@@ -2457,8 +2365,8 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
-			y: 11.0d
+			x: 2.5d
+			y: 7.0d
 		}
 		{
 			id: "052C1641C1B139E1"
@@ -2474,8 +2382,8 @@
 				}
 				type: "item"
 			}]
-			x: 1.5d
-			y: 11.0d
+			x: 3.0d
+			y: 6.0d
 		}
 		{
 			id: "2A514C3308F478CA"
@@ -2491,8 +2399,8 @@
 				}
 				type: "item"
 			}]
-			x: 3.5d
-			y: 11.0d
+			x: 1.5d
+			y: 7.0d
 		}
 		{
 			id: "5995405DA906DAC9"
@@ -2508,8 +2416,8 @@
 				}
 				type: "item"
 			}]
-			x: 2.5d
-			y: 11.0d
+			x: -1.5d
+			y: 7.0d
 		}
 		{
 			id: "62EDFE330152D151"
@@ -2521,7 +2429,7 @@
 			}]
 			title: "Shrimp"
 			x: 7.5d
-			y: -1.0d
+			y: 0.0d
 		}
 		{
 			id: "756E67F4F76D714B"
@@ -2537,8 +2445,9 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 0.0d
+			title: "Islehopper"
+			x: 12.0d
+			y: -0.5d
 		}
 		{
 			id: "69B2EDD7C5BF848A"
@@ -2554,8 +2463,9 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.0d
+			title: "Devilfish"
+			x: 8.5d
+			y: 4.0d
 		}
 		{
 			id: "78CD817093A6344E"
@@ -2571,8 +2481,9 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 0.0d
+			title: "Pondie"
+			x: -4.0d
+			y: -1.5d
 		}
 		{
 			id: "7FCD2615CFCE2307"
@@ -2588,8 +2499,9 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 1.0d
+			title: "Wildsplash"
+			x: -2.0d
+			y: -1.5d
 		}
 		{
 			id: "09BFA8F463EA53C6"
@@ -2605,8 +2517,9 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: 0.0d
+			title: "Splashtail"
+			x: 13.0d
+			y: -1.5d
 		}
 		{
 			id: "730F48B673A86E20"
@@ -2622,8 +2535,9 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: 1.0d
+			title: "Plentifin"
+			x: 14.0d
+			y: -1.5d
 		}
 		{
 			id: "187B4EB70CBD445D"
@@ -2639,8 +2553,9 @@
 				}
 				type: "item"
 			}]
-			x: -2.5d
-			y: 2.0d
+			title: "Battlegil"
+			x: 16.0d
+			y: 2.5d
 		}
 		{
 			id: "5B609F97AEDA6A03"
@@ -2656,8 +2571,9 @@
 				}
 				type: "item"
 			}]
-			x: -1.5d
-			y: 2.0d
+			title: "Wrecker"
+			x: 15.0d
+			y: 2.5d
 		}
 		{
 			id: "78CF7DEAE1BE7E22"
@@ -2673,8 +2589,9 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: 2.0d
+			title: "Stormfish"
+			x: -4.5d
+			y: 2.5d
 		}
 		{
 			id: "367D8F1EE6899683"
@@ -2690,8 +2607,9 @@
 				}
 				type: "item"
 			}]
-			x: -3.5d
-			y: 1.0d
+			title: "Ancientscale"
+			x: 10.0d
+			y: -0.5d
 		}
 		{
 			id: "5CB9135B1FEEF8B4"
@@ -2707,8 +2625,116 @@
 				}
 				type: "item"
 			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "7ABCD3730FC6F4EE"
+			tasks: [{
+				consume_items: false
+				id: "38F42BF42374410A"
+				item: "hybrid-aquatic:spider_crab_claw"
+				type: "item"
+			}]
+			title: "Spider Crab"
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			id: "4329F6BA687CEFFF"
+			tasks: [{
+				consume_items: false
+				id: "73925EF8B8E0AB42"
+				item: "hybrid-aquatic:lightfoot_crab_claw"
+				type: "item"
+			}]
+			title: "Lightfoot Crab"
 			x: 7.5d
-			y: 11.0d
+			y: -2.0d
+		}
+		{
+			id: "2AF5594EC150D014"
+			tasks: [{
+				consume_items: false
+				id: "725B0240E16C12D6"
+				item: "hybrid-aquatic:yeti_crab_claw"
+				type: "item"
+			}]
+			title: "Yeti Crab"
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			id: "1DD82BCE7045D006"
+			tasks: [{
+				consume_items: false
+				id: "0B47BFAF7C5F6E6E"
+				item: "hybrid-aquatic:ghost_crab_claw"
+				type: "item"
+			}]
+			title: "Ghost Crab"
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			id: "5DC97AA3E1A343D2"
+			tasks: [{
+				consume_items: false
+				id: "1A8D68F9D6168B48"
+				item: "hybrid-aquatic:fiddler_crab_claw"
+				type: "item"
+			}]
+			title: "Fiddler Crab"
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			id: "5B7AA4162A4440A1"
+			tasks: [{
+				consume_items: false
+				id: "4BB1CE7BE70DDA40"
+				item: "hybrid-aquatic:vampire_crab_claw"
+				type: "item"
+			}]
+			title: "Vampire Crab"
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			id: "17E13CBA5D518B16"
+			tasks: [{
+				consume_items: false
+				id: "7AEE1A4642990D74"
+				item: "hybrid-aquatic:flower_crab_claw"
+				type: "item"
+			}]
+			title: "Flower Crab"
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			id: "5EC676DF1079B110"
+			tasks: [{
+				consume_items: false
+				id: "20775D6BF0381EAF"
+				item: "hybrid-aquatic:coconut_crab_claw"
+				type: "item"
+			}]
+			title: "Coconut Crab"
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			id: "7193C470843FCCA5"
+			tasks: [{
+				consume_items: false
+				id: "450477ACBEE0E69A"
+				item: "hybrid-aquatic:dungeness_crab_claw"
+				type: "item"
+			}]
+			title: "Dungeness Crab"
+			x: 8.0d
+			y: -4.0d
 		}
 	]
 	title: "Fishing"
