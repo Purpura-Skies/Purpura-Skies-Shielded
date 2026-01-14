@@ -1,0 +1,42 @@
+[
+    {
+        "action": "remove",
+        "filter": {
+            "items": [
+                "vintagedelight:cheese_wheel",
+                "vintagedelight:cheese_curds",
+                "vintagedelight:cheese_mold",
+                "tidesdelight:cheese",
+                "medievalembroidery:apple_pie",
+                "medievalembroidery:water",
+                "medievalembroidery:salt",
+                "medievalembroidery:lemon",
+                "medievalembroidery:lemon_tea",
+                "medievalembroidery:lemon_juice",
+                "medievalembroidery:apple_cider",
+                "medievalembroidery:apple_juice",
+                "medievalembroidery:apple_seed",
+                "medievalembroidery:pickled_egg",
+                "medievalembroidery:pickled_meat",
+                "medievalembroidery:pickled_mushrooms",
+                "medievalembroidery:pickled_vegetables",
+                "dragnlivestock:utility_knife",
+                "dragnlivestock:beef_strips",
+                "dragnlivestock:chicken_strips",
+                "dragnlivestock:pork_strips",
+                "dragnlivestock:mutton_strips",
+                "dragnlivestock:fish_strips",
+                "dragnlivestock:game_strips",
+                "dragnlivestock:generic_strips",
+                "fishofthieves:pineapple_seeds",
+                "fishofthieves:pineapple_crown",
+                "fishofthieves:underripe_pineapple_block",
+                "fishofthieves:ripe_pineapple_block",
+                "fishofthieves:crownless_ripe_pineapple_block",
+                "fishofthieves:pineapple",
+                "fishofthieves:crownless_pineapple",
+                "fishofthieves:half_pineapple"
+            ]
+        }
+    }
+]

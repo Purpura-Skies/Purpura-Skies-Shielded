@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:water_bucket",
+    "legendarysurvivaloverhaul:purified_water_bottle"
+  ]
+}
