@@ -1,0 +1,29 @@
+[
+    {
+        "action": "remove",
+        "filter": {
+            "items": [
+                "dragnlivestock:utility_knife",
+                "dragnlivestock:beef_strips",
+                "dragnlivestock:chicken_strips",
+                "dragnlivestock:pork_strips",
+                "dragnlivestock:mutton_strips",
+                "dragnlivestock:fish_strips",
+                "dragnlivestock:game_strips",
+                "dragnlivestock:generic_strips",
+                "dragnlivestock:covered_wagon",
+                "dragnlivestock:livestock_wagon",
+                "dragnlivestock:lumber_wagon",
+                "dragnlivestock:goods_cart",
+                "dragnlivestock:mining_cart",
+                "dragnlivestock:transport_cart",
+                "dragnlivestock:plow",
+                "dragnlivestock:wagon_wheel_frame",
+                "dragnlivestock:wagon_wheel",
+                "dragnlivestock:wagon_axel",
+                "dragnlivestock:wagon_body",
+                "dragnlivestock:wagon_cover"
+            ]
+        }
+    }
+]

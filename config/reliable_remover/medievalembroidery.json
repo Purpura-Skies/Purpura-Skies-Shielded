@@ -1,0 +1,25 @@
+[
+    {
+        "action": "remove",
+        "filter": {
+            "items": [
+                "medievalembroidery:apple_pie",
+                "medievalembroidery:apple_seed",
+                "medievalembroidery:water",
+                "medievalembroidery:salt",
+                "medievalembroidery:lemon",
+                "medievalembroidery:lemon_seed",
+                "medievalembroidery:lemon_tea",
+                "medievalembroidery:lemon_juice",
+                "medievalembroidery:apple_cider",
+                "medievalembroidery:apple_juice",
+                "medievalembroidery:apple_seed",
+                "medievalembroidery:pickled_egg",
+                "medievalembroidery:pickled_meat",
+                "medievalembroidery:pickled_mushrooms",
+                "medievalembroidery:pickled_veggies",
+                "medievalembroidery:flour"
+            ]
+        }
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "action": "remove",
+        "filter": {
+            "items": [
+                "fishofthieves:pineapple_seeds",
+                "fishofthieves:pineapple_crown",
+                "fishofthieves:underripe_pineapple_block",
+                "fishofthieves:ripe_pineapple_block",
+                "fishofthieves:crownless_ripe_pineapple_block",
+                "fishofthieves:pineapple",
+                "fishofthieves:crownless_pineapple",
+                "fishofthieves:half_pineapple",
+                "fishofthieves:mango_pit",
+                "fishofthieves:mango_sapling",
+                "fishofthieves:mango",
+                "fishofthieves:raw_mango",
+                "fishofthieves:mango_leaves"
+            ]
+        }
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "action": "remove",
+        "filter": {
+            "items": [
+                "culturaldelights:cucumber",
+                "culturaldelights:wild_cucumbers",
+                "culturaldelights:cucumber_crate",
+                "culturaldelights:pickle",
+                "culturaldelights:cucumber_seeds"
+            ]
+        }
+    }
+]
