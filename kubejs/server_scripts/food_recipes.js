@@ -32,8 +32,8 @@ event.replaceInput(
 const minecraftWater = Item.of('minecraft:potion', '{Potion:"minecraft:water"}')
 
 event.replaceInput(
-  { input: minecraftWater}, // Arg 1: the filter
-  minecraftWater,            // Arg 2: the item to replace
+  { input: 'minecraftWater'}, // Arg 1: the filter
+  'minecraftWater',            // Arg 2: the item to replace
   '#forge:water'         // Arg 3: the item to replace it with
   // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
 )
@@ -233,17 +233,6 @@ event.custom({
     { item: 'farmersdelight:mutton_chops', count: 2 }
   ]
 })
-
-
-// Replace delightful animal fat with hexerei animal fat
-event.replaceInput(
-  { input: 'delightful:animal_fat' }, // Arg 1: the filter
-  'delightful:animal_fat',            // Arg 2: the item to replace
-  'hexerei:animal_fat'         // Arg 3: the item to replace it with
-  // Note: tagged fluid ingredients do not work on Fabric, but tagged items do.
-)
-
-event.remove({ input: 'hexerei:animal_fat', output: 'minecraft:candle' })
 
   console.log('Hello! The recipe event has fired!')
 })
