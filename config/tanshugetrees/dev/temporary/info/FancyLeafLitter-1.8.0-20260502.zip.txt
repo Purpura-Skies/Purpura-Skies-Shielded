@@ -1,0 +1,16 @@
+This is a custom pack for Tan's Huge Trees mod. For how to install can read in official wiki website.
+
+----------------------------------------------------------------------------------------------------
+
+Use fallen leaves from Vibrant Journeys mod for leaf litter. Available for vanilla leaves.
+
+Author : TannyJung
+Started Date : 1/4/2025
+Discord Forum : https://discord.com/channels/903706343817482301/1356628503868477460
+
+----------------------------------------------------------------------------------------------------
+
+pack_id = FancyLeafLitter
+data_structure_version = 1.8.0
+required_packs = none
+required_mods = projectvibrantjourneys

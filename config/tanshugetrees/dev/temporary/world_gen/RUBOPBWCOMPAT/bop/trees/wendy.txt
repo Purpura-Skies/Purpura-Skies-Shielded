@@ -1,0 +1,16 @@
+path_storage = presets/#main/wendy/storage
+path_settings = presets/#main/wendy/wendy_settings
+
+world_gen = true
+biome = biomeswevegone:frosted_coniferous_forest / biomeswevegone:frosted_taiga / regions_unexplored:pine_taiga / regions_unexplored:pine_slopes
+ground_block = #minecraft:dirt / #minecraft:podzol / #minecraft:coarse_dirt / #regions_unexplored:peat_podzol / #regions_unexplored:peat_course_podzol
+rarity = 100
+min_distance = 15
+group_size = 1 <> 1
+waterside_chance = 0.0
+dead_tree_chance = 0.01
+dead_tree_level = 10 / 20 / 30 / 40 / 50 / 6 / 7 / 8 / 9
+
+start_height_offset = 0 <> 0
+rotation = random
+mirrored = random
